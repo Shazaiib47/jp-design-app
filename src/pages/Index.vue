@@ -76,7 +76,7 @@
       </div>
     </div>
     <!-- Chapter Part -->
-    <div class="chapter_scetion">
+    <div class="chapter_section">
       <div class="row q-pa-xl">
         <div class="col-xs-12 col-sm-12 col-md-4 text-right">
           <div class="chapter_title">
@@ -280,7 +280,7 @@ export default defineComponent({
   max-width: 550px;
   border-radius: 10px;
 }
-.chapter_scetion {
+.chapter_section {
   background-color: #e6eee5;
   padding: 70px 0;
 }
