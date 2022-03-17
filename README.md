@@ -1,42 +1,14 @@
 # JP GROUP (jp-group)
 
-JP Group
+JP Group Design created and implemented via PDF Design.
 
-## Install Quasar on your device globally in terminal write this command
+### Images
 
-```bash
-npm i -g @quasar/cli
-```
+Images taken from PDF via screen-snap tool to save outsourcing images and then used to implement within webpage.
 
-## Install the dependencies
+### Config
 
-```bash
-npm install
-```
-
-### Start the app in development mode (hot-code reloading, error reporting, etc.)
-
-```bash
-quasar dev
-```
-
-### Lint the files
-
-```bash
-npm run lint
-```
-
-### Format the files
-
-```bash
-npm run format
-```
-
-### Build the app for production
-
-```bash
-quasar build
-```
+Created through the use of VueJS/Quasar Framework, for more information please refer below.
 
 ### Customize the configuration
 
