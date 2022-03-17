@@ -259,7 +259,7 @@ export default defineComponent({
 
 <style>
 .header {
-  background: url(/images/headerImage.jpg);
+  background: url(/images/houseplaceholder.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   height: 850px;
