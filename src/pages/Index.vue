@@ -18,14 +18,18 @@
         </div>
       </div>
       <div class="text-center" style="padding: 250px 0">
-        <div class="text-white text-h3">Creating spaces where future</div>
-        <div class="text-white text-h3">generations grow and prosper</div>
+        <div class="text-white text-bold text-h2">
+          Creating spaces where future
+        </div>
+        <div class="text-white text-bold text-h2">
+          generations grow and prosper
+        </div>
         <div class="q-mt-lg text-white text-h5">
           JP Group and its subsidiaries specialize in the Built Environment
         </div>
       </div>
     </div>
-    <!-- Passion Part -->
+    <!-- JP Subheader -->
     <div class="passion_section">
       <div class="text-center text-h4 text-bold">
         Passion, Innovation, Performance.
