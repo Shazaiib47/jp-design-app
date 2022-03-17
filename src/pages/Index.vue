@@ -78,7 +78,7 @@
     <!-- Chapter Part -->
     <div class="chapter_section">
       <div class="row q-pa-xl">
-        <div class="col-xs-12 col-sm-12 col-md-4 text-right">
+        <div class="col-xs-12 col-sm-12 col-md-4 text-left">
           <div class="chapter_title">
             <div>
               <div class="text-bold text-h5">Creating your</div>
@@ -149,9 +149,9 @@
           <div class="project_image1"></div>
           <div class="project_desc">
             <div>
-              <div class="text-h6">Project Barnsley</div>
-              <div class="text-h6">GDV £13m</div>
-              <div class="text-h6">70 Units</div>
+              <div class="text-h5">Project Barnsley</div>
+              <div class="text-h5">GDV £13m</div>
+              <div class="text-h5">70 Units</div>
             </div>
           </div>
         </div>
@@ -161,9 +161,9 @@
           <div class="project_image2"></div>
           <div class="project_desc">
             <div>
-              <div class="text-h6">Project Keighley</div>
-              <div class="text-h6">GDV £16m</div>
-              <div class="text-h6">102 Units</div>
+              <div class="text-h5">Project Keighley</div>
+              <div class="text-h5">GDV £16m</div>
+              <div class="text-h5">102 Units</div>
             </div>
           </div>
         </div>
