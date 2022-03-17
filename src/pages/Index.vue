@@ -12,7 +12,7 @@
             <div class="text-white text-bold text-h3 q-ml-sm">JP GROUP</div>
           </div>
           <div class="row">
-            <q-btn label="Contace" no-caps flat color="white" size="lg" />
+            <q-btn label="Contact" no-caps flat color="white" size="lg" />
             <q-btn class="q-ml-lg" size="lg" icon="menu" color="white" flat />
           </div>
         </div>
@@ -21,7 +21,7 @@
         <div class="text-white text-h3">Creating spaces where future</div>
         <div class="text-white text-h3">generations grow and prosper</div>
         <div class="q-mt-lg text-white text-h5">
-          JP Group and it’s subsidiaries specialise in the Built Environment
+          JP Group and its subsidiaries specialize in the Built Environment
         </div>
       </div>
     </div>
@@ -37,7 +37,7 @@
       <div class="row q-px-xl">
         <div class="col-xs-12 col-sm-6 col-md-4">
           <div class="text-bold">
-            JP Group and it’s subsidiaries specialise in the Built Environment,
+            JP Group and its subsidiaries specialize in the Built Environment,
             specifically new build homes. We are currently one of the
             development partners for a Build to Rent fund, delivering 350 units
             per year. We create sustainable, functional and future proofed
@@ -90,8 +90,8 @@
                   <div class="balton_logo"></div>
                   <div class="text-bold q-pt-md">
                     We select land with potential for development. At Belton
-                    Homes we source the land, finalise the permission and create
-                    amazing new build designs for upmost appeal, utilising
+                    Homes we source the land, finalize the permission and create
+                    amazing new build designs for upmost appeal, utilizing
                     future home building practices, like future ready heating
                     systems and EV charging points in every development.
                   </div>
@@ -109,7 +109,7 @@
               <div class="">
                 <div class="memories_logo"></div>
                 <div class="text-bold q-pt-md">
-                  Emerald construction specialising in new build homes, also
+                  Emerald construction specializing in new build homes, also
                   residential conversions, and refurbishments. Working for
                   clients across the UK.
                 </div>
