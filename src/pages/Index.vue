@@ -91,7 +91,7 @@
             <div class="chapter_right_image">
               <div class="chapter_left">
                 <div class="">
-                  <div class="balton_logo"></div>
+                  <div class="belton_logo"></div>
                   <div class="text-bold q-pt-md">
                     We select land with potential for development. At Belton
                     Homes we source the land, finalize the permission and create
@@ -307,7 +307,7 @@ export default defineComponent({
   border-radius: 10px;
   width: 70%;
 }
-.balton_logo {
+.belton_logo {
   background: url(/images/beltonHomeLogo.png) no-repeat center / contain;
   height: 50px;
   width: 50%;
